@@ -19,4 +19,4 @@ System.out.println("New array is");
 for(int x:a)
 System.out.print(x+"\t");//hvhjvhjv
 }
-}
+}//hjbjhbhb
