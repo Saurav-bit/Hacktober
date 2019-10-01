@@ -14,7 +14,7 @@ for(i=0;i<a;i++)
 {
 for(j=0;j<b;j++)
 {
-arr[i][j]=s.nextInt();
+arr[i][j]=s.nextInt();//hfhgyhtf
 }
 }
 for(i=0;i<a;i++)

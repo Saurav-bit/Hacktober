@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Prog75
 {
-public static void main(String ar[])
+public static void main(String ar[]) //hello there
 {
 int i,pos,j;
 int a[]=new int[10];
